@@ -1,6 +1,5 @@
 # Football-world
 Welcome on Football world !!!
-<!doctype html>
 <html lang="pl">
 <head>
   <meta charset="utf-8" />
